@@ -1,0 +1,21 @@
+{
+  "name": "yara-dark",
+  "displayName": "yara",
+  "description": "yara colorscheme for vscode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "yara",
+        "uiTheme": "vs-dark",
+        "path": "./themes/yara-color-theme.json"
+      }
+    ]
+  }
+}
