@@ -1,5 +1,5 @@
 {
-    "name": "yara",
+    "name": "yara grey",
     "colors": {
     // Foreground and Background colors
     "foreground": "#e4e4ef",
@@ -1890,7 +1890,7 @@
                 "markup.quote punctuation.definition.blockquote.markdown"
             ],
             "settings": {
-                "foreground": "#484848"
+                "foreground": "#585858"
             }
         },
         {

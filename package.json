@@ -15,6 +15,11 @@
         "label": "yara",
         "uiTheme": "vs-dark",
         "path": "./themes/yara-color-theme.json"
+      },
+      {
+        "label": "yara grey",
+        "uiTheme": "vs-dark",
+        "path": "./themes/yara-grey-color-theme.json"
       }
     ]
   }
